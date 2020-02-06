@@ -96,3 +96,4 @@ In Model 4, I added log value on sales price to make its distribution closer to 
 ## Slide Link
 
 https://drive.google.com/file/d/1PUx15Evh_m84E4RLdQKiFr5rn-FC4JBl/view?usp=sharing
+# ames_housing_price
